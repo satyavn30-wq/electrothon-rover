@@ -1,2 +1,18 @@
-# electrothon-rover
-Electrothon Rover – Remote Soil Moisture Monitoring Robot  Electronics rover developed during Electrothon Hackathon organized by the EEE Society at Birla Institute of Technology Mesra. The system enables remote control of a rover through a web interface while monitoring soil moisture levels using a sensor connected to an ESP32 microcontroller.
+# Electrothon Rover – Soil Moisture Monitoring Rover
+
+Rover built during Electrothon Hackathon (EEE Society, BIT Mesra).  
+Controlled via web interface, and returns soil moisture as percentage using ESP32.
+
+## Prototype
+![Rover Prototype](images/rover_prototype.jpeg)
+
+## Web Interface
+![Web Interface](images/web_interface.jpeg)
+
+## Moisture Output
+![Moisture Output](images/moisture_output.jpeg)
+
+## Repository Structure
+- `esp32_code/` ESP32 firmware
+- `web_interface/` control webpage
+- `images/` project visuals
