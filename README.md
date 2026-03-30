@@ -30,8 +30,8 @@ Web Interface → Command Transmission → ESP32 → Motor Control + Sensor Read
 
 ## Demo Videos
 
-- ▶️ **Rover Operation:** [Watch Video](PASTE_ROVER_VIDEO_LINK)  
-- ▶️ **Web Interface & Control:** [Watch Video](PASTE_INTERFACE_VIDEO_LINK)
+- ▶️ **Rover Operation:** [Watch Video](https://drive.google.com/file/d/1C1JqgriYy310lbdlKDqsEjoANji-o_nh/view?usp=sharing)  
+- ▶️ **Web Interface & Control:** [Watch Video](https://drive.google.com/file/d/1-LHpVBXQbVpLxwL9TpUG45_aINoE62SX/view?usp=sharing)
 ## Repository Structure
 - `esp32_code/` – ESP32 firmware  
 - `web_interface/` – control interface  
