@@ -28,9 +28,10 @@ Web Interface → Command Transmission → ESP32 → Motor Control + Sensor Read
 ## Moisture Output
 ![Moisture Output](images/moisture_output.jpeg)
 
-## Demo Video
-[Watch Demo](PASTE_VIDEO_LINK_HERE)
+## Demo Videos
 
+- ▶️ **Rover Operation:** [Watch Video](PASTE_ROVER_VIDEO_LINK)  
+- ▶️ **Web Interface & Control:** [Watch Video](PASTE_INTERFACE_VIDEO_LINK)
 ## Repository Structure
 - `esp32_code/` – ESP32 firmware  
 - `web_interface/` – control interface  
